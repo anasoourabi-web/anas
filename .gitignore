@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+
+# Runtime output (verified emails, cache) — keep out of git by default.
+data/results.csv
+data/results.json
+data/cache.json
